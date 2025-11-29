@@ -1,8 +1,8 @@
 // ======= Data (images reference local assets/images/p1.png .. p20.png) =======
 const products = [
-  {id:1, title:"Aurora Headphones", description:"Wireless over-ear headphones with deep bass and long battery life.", price:79.99, category:"Audio", image:"assets/images/p1.png"},
-  {id:2, title:"Nebula Desk Lamp", description:"Ambient RGB lamp with color temperature control and USB-C power.", price:34.99, category:"Home", image:"assets/images/p2.png"},
-  {id:3, title:"Skyline Backpack", description:"Durable travel backpack with waterproof fabric and laptop compartment.", price:49.99, category:"Bags", image:"assets/images/p3.png"},
+  {id:1, title:"Aurora Headphones", description:"Wireless over-ear headphones with deep bass and long battery life.", price:79.99, category:"Audio", image:"image: "./assets/images/p1.png""},
+  {id:2, title:"Nebula Desk Lamp", description:"Ambient RGB lamp with color temperature control and USB-C power.", price:34.99, category:"Home", image:"./assets/images/p2.png"},
+  {id:3, title:"Skyline Backpack", description:"Durable travel backpack with waterproof fabric and laptop compartment.", price:49.99, category:"Bags", image:"./assets/images/p3.png"},
   {id:4, title:"Pulse Gaming Mouse", description:"High precision gaming mouse with RGB lighting and programmable buttons.", price:29.99, category:"Gaming", image:"assets/images/p4.png"},
   {id:5, title:"Vortex Keyboard", description:"Mechanical keyboard with tactile switches and aluminum frame.", price:89.99, category:"Gaming", image:"assets/images/p5.png"},
   {id:6, title:"Comet Sneakers", description:"Lightweight sneakers for everyday comfort and urban style.", price:59.99, category:"Fashion", image:"assets/images/p6.png"},
